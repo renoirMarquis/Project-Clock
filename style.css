@@ -1,0 +1,16 @@
+body{
+	background:#1D2951;
+}
+.clock{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	color: #CCC2C2;
+	font-size: 80px;
+	border:1px solid #CCC2C2;
+	padding: 0px 5px 0px 5px;
+	border-radius: 5px;
+	box-sizing: border-box;
+	font-family: 'Orbitron', sans-serif;
+}
